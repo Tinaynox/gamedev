@@ -30,6 +30,8 @@ int main()
 	{
 		// Initialization
 		step = 0;
+		errors = 0;
+		
 
 		for( int i = 0; i < lettersCount; i++ )
 		{
